@@ -1,0 +1,21 @@
+{
+  "name": "德思勤签到",
+  "type": "boxjs.data",
+  "data": [
+    {
+      "key": "dossen_token",
+      "label": "access_token",
+      "defaultValue": ""
+    },
+    {
+      "key": "dossen_sessionid",
+      "label": "DOSSENSESSIONID",
+      "defaultValue": ""
+    },
+    {
+      "key": "dossen_blackbox",
+      "label": "blackbox 参数",
+      "defaultValue": ""
+    }
+  ]
+}
