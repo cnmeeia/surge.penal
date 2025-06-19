@@ -1,21 +1,21 @@
 {
+  "id": "dossen",
   "name": "德思勤签到",
-  "type": "boxjs.data",
-  "data": [
+  "keys": [
     {
       "key": "dossen_token",
-      "label": "access_token",
-      "defaultValue": ""
+      "name": "access_token",
+      "desc": "德思勤小程序的 access_token"
     },
     {
       "key": "dossen_sessionid",
-      "label": "DOSSENSESSIONID",
-      "defaultValue": ""
+      "name": "DOSSENSESSIONID",
+      "desc": "德思勤小程序的 DOSSENSESSIONID"
     },
     {
       "key": "dossen_blackbox",
-      "label": "blackbox 参数",
-      "defaultValue": ""
+      "name": "blackbox 参数",
+      "desc": "签到链接中的 blackbox 参数"
     }
   ]
-}
+}}
